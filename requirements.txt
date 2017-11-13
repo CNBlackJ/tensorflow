@@ -1,0 +1,4 @@
+numpy==1.13.3
+protobuf==3.0.0b2
+six==1.11.0
+tensorflow==0.8.0rc0
